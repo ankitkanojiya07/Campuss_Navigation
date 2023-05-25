@@ -3,7 +3,8 @@ The campus navigation project aims to develop a system that provides efficient n
 
 Here we used videos to navigate to peoples by voice. And we uploaded these videos on YouTube and generated a QR and paste this qr everywhere on the campus.
 
-![WhatsApp Image 2023-05-25 at 8 48 30 PM](https://github.com/ankitkanojiya07/Campuss_Navigation/assets/94682775/021485cf-e289-4717-b9b7-bf851882faeb)
 
 
-![WhatsApp Image 2023-05-25 at 8 48 31 PM](https://github.com/ankitkanojiya07/Campuss_Navigation/assets/94682775/a1bb8c11-f862-4de6-816a-3737eb95cd68)
+![1](https://github.com/ankitkanojiya07/Campuss_Navigation/assets/94682775/52de2454-dfc5-4939-8108-9ec2b54e3864)
+
+ ![3](https://github.com/ankitkanojiya07/Campuss_Navigation/assets/94682775/9242cd21-7180-4e64-bc3a-de8dbdd21712)
